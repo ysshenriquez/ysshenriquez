@@ -14,4 +14,4 @@
 ### ¿Hablamos?
 
 - 💌 [LinkedIn](https://www.linkedin.com/in/yss-henriquez/)
-- 🌍 Desde Lima, Perú
+- 🌍 Lima, Perú
