@@ -13,5 +13,5 @@
 
 ### ¿Hablamos?
 
-- 💌 [LinkedIn](https://www.linkedin.com/in/yss-henriquez/)
+- [LinkedIn](https://www.linkedin.com/in/yss-henriquez/)
 - 🌍 Lima, Perú
