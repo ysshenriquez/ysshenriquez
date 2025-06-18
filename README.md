@@ -2,22 +2,16 @@
   <img src="banner_yss.jpeg" width="100%" alt="Banner de Yessi">
 </p>
 
-<h1 align="center">✨ ¡Hola! Soy Yessenia Henriquez ✨</h1>
+<h1 align="center"> ¡Hola! Soy Yessenia Henriquez ✨</h1>
 
-<p align="center">
-  Data & BI Developer • Visual Analytics • Yogui
-</p>
-
----
-
-### 💼 Sobre mí
+### Sobre mí
 
 - 🎓 Licenciada en Marketing y Gestión Comercial
 - 📈 Especialista en Tableau, Power BI y Looker Studio
 
 ---
 
-### 📫 ¿Hablamos?
+### ¿Hablamos?
 
 - 💌 [LinkedIn](https://www.linkedin.com/in/yss-henriquez/)
 - 🌍 Desde Lima, Perú
