@@ -5,7 +5,7 @@
 <h1 align="center">✨ ¡Hola! Soy Yessenia Henriquez ✨</h1>
 
 <p align="center">
-  Data & BI Developer • Visual Analytics 💻 • Yogui 🧘‍♀️ • Fan de los dashboards bien hechos 📊
+  Data & BI Developer • Visual Analytics • Yogui
 </p>
 
 ---
